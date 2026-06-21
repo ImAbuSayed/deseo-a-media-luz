@@ -1,4 +1,4 @@
-# Deseo a media luz
+# Deseo a media luz, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Deseo a media luz |
+| **Title** | Deseo a media luz, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/deseo-a-media-luz/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Deseo a media luz](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deseo-a-media-luz/) |
+| **Get License** | [Commercial Licensing for Deseo a media luz, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deseo-a-media-luz/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Te veo bailando sola, perdiendo el control
+> Con ese flow de Madrid que me roba la razón
+> Mami, tú eres el fuego, yo quiero ser el calor
+> Nos vamo' a lo oscuro, a media luz, my love
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,8 +110,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 20, 2026 |
+| **SHA-256 Hash** | `9621fb446f01dce4afb033cb677b219cc1651f822c9850754159bf7135560936` |
+| **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 

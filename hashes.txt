@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Deseo a media luz, Vol. 2
+
+This log tracks the cryptographic history and versioning for the song **Deseo a media luz, Vol. 2** (deseo-a-media-luz-vol-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-21T10:32:15.712692 | `v1` | `9621fb446f01dce4afb033cb677b219cc1651f822c9850754159bf7135560936` | `bf4ddd67999ecd2de577b7c17014c7f41c6c32ee2179e8e36f06480c0b065bc0` | `2026-06-21_deseo-a-media-luz-vol-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
